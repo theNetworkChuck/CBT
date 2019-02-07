@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "webserversstorage"
+      "value": "GEN-UNIQUE-8"
     },
     "adminUsername": {
       "value": "ubuntu"
     },
     "adminPassword": {
-      "value": "CBTNU$$g3tS!@3"
+      "value": "GEN-PASSWORD"
     },
     "dnsNameForPublicIP": {
       "value": "GEN-UNIQUE"
